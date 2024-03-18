@@ -15,6 +15,9 @@ int[] numbers = { 1, 2, 3, 4 };
 double average = GetAverage(numbers);
 Console.WriteLine(average);
 
+
+
+
 static int GetMax(int[] numbers)
 {
     int max = 0;
